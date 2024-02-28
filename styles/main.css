@@ -115,6 +115,7 @@ input {
   font-weight: 400;
   position: relative;
   z-index: 1;
+  color: dodgerblue;
 }
 .header__title::before {
   content: "";
